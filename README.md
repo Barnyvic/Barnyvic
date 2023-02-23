@@ -13,7 +13,7 @@ Skills: <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel=
 - 🤔 I’m looking for help with Typescript 
 - 📫 How to reach me: victorbarny4@gmail.com 
 - 😄 Pronouns: he/him 
--  📄 Know about my experiences [https://drive.google.com/file/d/1XrrKTsBCLJ1xMvn_rsSHIRsaZkd5Nc0l/view?usp=sharing](https://drive.google.com/file/d/1XrrKTsBCLJ1xMvn_rsSHIRsaZkd5Nc0l/view?usp=sharing)
+-  📄 Know about my experiences https://drive.google.com/file/d/1UBbCnrQg0J7a8hTX5NvZCEcUXAW8u3pk/view?usp=sharing
 - ⚡ Fun fact: I Love movies, games and I am a Real-Madrid fan 
 
 
