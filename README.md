@@ -8,7 +8,7 @@ Skills: <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel=
 - 👯 I’m looking to collaborate on a Backend projects  
 - 📫 How to reach me: victorbarny4@gmail.com 
 - 😄 Pronouns: he/him 
--  📄 Know about my experiences <a hraf="https://drive.google.com/file/d/1uSrJzhYHXovEbXwf7bXfJPDohd9tc18K/view?usp=sharing">My Resume</a>
+-  📄 Know about my experiences : https://drive.google.com/file/d/1uSrJzhYHXovEbXwf7bXfJPDohd9tc18K/view?usp=sharing
 - ⚡ Fun fact: I Love movies, games and I am a Real-Madrid fan 
 
 
